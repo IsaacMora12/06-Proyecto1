@@ -18,10 +18,10 @@ function App() {
 
       <nav className="nav">
         <ul>
-          <li><a href="/#">Inicio</a></li>
-          <li><a href="/#">Block</a></li>
-          <li><a href="/#">Peliculas</a></li>
-          <li><a href="/#">Contacto</a></li>
+          <li><a href="/#">Ini cio</a></li>
+          <li><a href="/#">Blo ck</a></li>
+          <li><a href="/#">Pelicu las</a></li>
+          <li><a href="/#">Co ntacto</a></li>
         </ul>
       </nav>
       <section className="content">
