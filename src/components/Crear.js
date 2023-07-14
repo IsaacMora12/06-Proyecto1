@@ -17,7 +17,7 @@ export const Crear = ({setlistadoState}) => {
         let titulo = target.titulo.value;
         let descripcion = target.descripcion.value;
 
-        //crear objeto a guardar
+        //crear objeto  a guardar
        let peli ={
         id: new Date().getTime(),
         titulo,
